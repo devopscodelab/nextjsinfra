@@ -1,0 +1,11 @@
+
+{
+    "name": "list-buckets",
+    "version": "1.0.0",
+    "description": "Lambda function to list S3 buckets",
+    "main": "index.js",
+    "dependencies": {
+      "aws-sdk": "^2.1001.0"
+    }
+  }
+  
